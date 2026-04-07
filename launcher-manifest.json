@@ -7,11 +7,10 @@
   "loading": {
     "backgroundUrl": "https://victorspilla127-pixel.github.io/launcher/loading.jpg"
   }
-"theme": {
+  "theme": {
     "backgroundImageUrl": "https://seusite.com/launcher/season1/bg.jpg",
     "warriorImageUrl": "https://seusite.com/launcher/season1/warrior.png",
     "logoImageUrl": "https://seusite.com/launcher/season1/logo.png",
-
     "playButtonBackgroundUrl": "https://seusite.com/launcher/season1/button.png",
     "playButtonTextImageUrl": "https://seusite.com/launcher/season1/textbutton.png",
 
@@ -22,6 +21,21 @@
     "versionText": "Versão 1.0.6",
     "buildText": "Build 2026.03",
     "pingText": "Ping 42ms",
-    "onlineText": "1.248 online"
+    "onlineText": "1.248 online",
+
+    "topButtonBackground": "#14FFFFFF",
+    "topButtonBorder": "#14FFFFFF",
+    "topButtonHoverBackground": "#1DFFFFFF",
+    "topButtonHoverBorder": "#22FFFFFF",
+    "topButtonPressedBackground": "#28FFFFFF",
+
+    "closeButtonBackground": "#2A1116",
+    "closeButtonBorder": "#5A2028",
+    "closeButtonHoverBackground": "#4A1820",
+    "closeButtonHoverBorder": "#7A2A36",
+    "closeButtonPressedBackground": "#61202A",
+
+    "panelBackground": "#B30A0C10",
+    "panelBorder": "#12FFFFFF"
   }
 }
