@@ -2,9 +2,9 @@
   "seasonId": "season1",
   "intro": {
     "enabled": true,
-    "videoUrl": "https://seusite.com/intro.mp4"
+    "videoUrl": "https://victorspilla127-pixel.github.io/launcher/Season1.mp4"
   },
   "loading": {
-    "backgroundUrl": "https://seusite.com/loading.jpg"
+    "backgroundUrl": "https://victorspilla127-pixel.github.io/launcher/loading.jpg"
   }
 }
