@@ -11,6 +11,10 @@
     "backgroundImageUrl": "https://seusite.com/launcher/season1/bg.jpg",
     "warriorImageUrl": "https://seusite.com/launcher/season1/warrior.png",
     "logoImageUrl": "https://seusite.com/launcher/season1/logo.png",
+
+    "playButtonBackgroundUrl": "https://seusite.com/launcher/season1/button.png",
+    "playButtonTextImageUrl": "https://seusite.com/launcher/season1/textbutton.png",
+
     "seasonLabel": "Season • Era of Corruption",
     "seasonBadgeText": "SEASON 6 • PVP • CORRUPTION",
     "heroTitle": "ENTER THE\\nSHADOW WAR",
