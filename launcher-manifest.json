@@ -6,7 +6,7 @@
   },
   "loading": {
     "backgroundUrl": "https://victorspilla127-pixel.github.io/launcher/loading.jpg"
-  }
+  },
   "theme": {
     "backgroundImageUrl": "https://seusite.com/launcher/season1/bg.jpg",
     "warriorImageUrl": "https://seusite.com/launcher/season1/warrior.png",
@@ -36,19 +36,20 @@
     "closeButtonPressedBackground": "#61202A",
 
     "panelBackground": "#B30A0C10",
-    "panelBorder": "#12FFFFFF"
-    
+    "panelBorder": "#12FFFFFF",
+
     "centerGlowColor": "#FF4A57",
 
     "seasonBadgeTextColor": "#E6ECF3",
-     "seasonBadgeDotColor": "#FF4A57",
-     "seasonBadgeDotGlowColor": "#FF4A57",
-    
-     "serverNameColor": "#FFF3EE",
+    "seasonBadgeDotColor": "#FF4A57",
+    "seasonBadgeDotGlowColor": "#FF4A57",
+
+    "serverNameColor": "#FFF3EE",
     "serverGlowMainColor": "#FFFFB066",
     "serverGlowFireTextColor": "#FF7A1E",
     "serverGlowFireColor": "#FFFF5A1F",
-     "serverStatusColor": "#FFB58A" 
+    "serverStatusColor": "#FFB58A",
+
     "progressFillColor": "#8B111B",
     "progressGlowColor": "#66BC1623",
 
