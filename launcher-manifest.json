@@ -14,13 +14,13 @@
     "playButtonBackgroundUrl": "https://seusite.com/launcher/season1/button.png",
     "playButtonTextImageUrl": "https://seusite.com/launcher/season1/textbutton.png",
 
+    "launcherMusicUrl": "https://victorspilla127-pixel.github.io/launcher/theme.mp3",
+    "guideUrl": "https://seusite.com/guia/",
+
     "seasonLabel": "Season • Era of Corruption",
     "seasonBadgeText": "SEASON 6 • PVP • CORRUPTION",
     "heroTitle": "ENTER THE\\nSHADOW WAR",
     "heroSubtitle": "Junte-se aos guerreiros de Aetherion e ajude-os na batalha contra o poderoso Azor.",
-    "versionText": "Versão 1.0.6",
-    "buildText": "Build 2026.03",
-    "onlineText": "1.248 online",
 
     "topButtonBackground": "#14FFFFFF",
     "topButtonBorder": "#14FFFFFF",
@@ -38,10 +38,13 @@
     "panelBorder": "#12FFFFFF",
 
     "centerGlowColor": "#FF4A57",
-
     "seasonBadgeTextColor": "#E6ECF3",
     "seasonBadgeDotColor": "#FF4A57",
     "seasonBadgeDotGlowColor": "#FF4A57",
+    "seasonBadgeBackground": "#7A0B0E13",
+    "seasonBadgeBorder": "#26FFFFFF",
+
+    "heroSubtitleColor": "#D4DBE4",
 
     "serverNameColor": "#FFF3EE",
     "serverGlowMainColor": "#FFFFB066",
