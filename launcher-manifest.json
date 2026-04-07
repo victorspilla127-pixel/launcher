@@ -3,9 +3,11 @@
   "intro": {
     "enabled": true,
     "videoUrl": "https://victorspilla127-pixel.github.io/launcher/Season1.mp4"
+    "subtitle": "Era of Corruption    "
   },
   "loading": {
     "backgroundUrl": "https://victorspilla127-pixel.github.io/launcher/loading.jpg"
+    "subtitle": "Carregando Mundo     "
   },
   "theme": {
     "backgroundImageUrl": "https://seusite.com/launcher/season1/bg.jpg",
